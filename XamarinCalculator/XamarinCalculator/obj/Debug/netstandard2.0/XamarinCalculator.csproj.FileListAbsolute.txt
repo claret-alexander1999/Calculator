@@ -1,0 +1,15 @@
+C:\Users\alxx9\Desktop\Term 2\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\XamarinCalculator.csproj.AssemblyReference.cache
+C:\Users\alxx9\Desktop\Term 2\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\XamarinCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alxx9\Desktop\Term 2\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\alxx9\Desktop\Term 2\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\alxx9\Desktop\Term 2\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\XamarinCalculator.AssemblyInfoInputs.cache
+C:\Users\alxx9\Desktop\Term 2\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\XamarinCalculator.AssemblyInfo.cs
+C:\Users\alxx9\Desktop\Term 2\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\XamarinCalculator.csproj.CoreCompileInputs.cache
+C:\Users\alxx9\Desktop\Term 2\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\XamarinCalculator.dll
+C:\Users\alxx9\Desktop\Term 2\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\ref\XamarinCalculator.dll
+C:\Users\alxx9\Desktop\Term 2\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\XamarinCalculator.pdb
+C:\Users\alxx9\Desktop\Term 2\XamarinCalculator\XamarinCalculator\bin\Debug\netstandard2.0\XamarinCalculator.deps.json
+C:\Users\alxx9\Desktop\Term 2\XamarinCalculator\XamarinCalculator\bin\Debug\netstandard2.0\XamarinCalculator.dll
+C:\Users\alxx9\Desktop\Term 2\XamarinCalculator\XamarinCalculator\bin\Debug\netstandard2.0\ref\XamarinCalculator.dll
+C:\Users\alxx9\Desktop\Term 2\XamarinCalculator\XamarinCalculator\bin\Debug\netstandard2.0\XamarinCalculator.pdb
+C:\Users\alxx9\Desktop\Term 2\XamarinCalculator\XamarinCalculator\obj\Debug\netstandard2.0\XamlC.stamp
